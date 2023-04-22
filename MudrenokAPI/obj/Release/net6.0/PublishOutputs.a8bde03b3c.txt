@@ -4,6 +4,7 @@ C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\MudrenokAPI.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\MudrenokAPI.runtimeconfig.json
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\MudrenokAPI.pdb
+C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Ardalis.ApiEndpoints.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Azure.Identity.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
@@ -17,6 +18,7 @@ C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Options.dll

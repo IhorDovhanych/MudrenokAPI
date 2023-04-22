@@ -85,3 +85,4 @@ C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\refint\
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\MudrenokAPI.pdb
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\MudrenokAPI.genruntimeconfig.cache
 C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\obj\Release\net6.0\ref\MudrenokAPI.dll
+C:\Users\IhorDov\source\repos\MudrenokAPI\MudrenokAPI\bin\Release\net6.0\Ardalis.ApiEndpoints.dll
